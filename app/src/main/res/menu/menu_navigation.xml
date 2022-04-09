@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/yt"
+        android:title="Google"
+        android:icon="@drawable/ic_google"/>
+    <item
+        android:id="@+id/fb"
+        android:title="SaeidTel"
+        android:icon="@drawable/ic_fb"/>
+    <item
+        android:id="@+id/twitter"
+        android:title="رامندنت"
+        android:icon="@drawable/ic_rn_w"/>
+
+    <item
+        android:id="@+id/services"
+        android:title="خدمات"
+        android:icon="@drawable/ic_services"/>
+
+</menu>
